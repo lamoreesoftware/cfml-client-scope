@@ -1,0 +1,15 @@
+{
+    "app":{
+        "cfengine":"adobe@2023"
+    },
+    "JVM":{
+        "javaVersion":"openjdk11"
+    },
+    "openBrowser":"false",
+    "trayEnable":"false",
+    "web":{
+        "http":{
+            "port":"18002"
+        }
+    }
+}
